@@ -1,0 +1,4 @@
+bokeh
+pandas
+gspread
+oauth2client
